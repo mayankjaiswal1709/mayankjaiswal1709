@@ -9,7 +9,6 @@ I am a DEVELOPER, I am working on **HTML**,**CSS**,**JAVASCRIPT**
 <img align="right" src=![code](https://user-images.githubusercontent.com/58311460/100573731-7ae76880-32fe-11eb-9e35-fb8b2b859e4e.gif)" height="300" width="400">
 </p>
 
-
 <h2 style="block">Github Stats</h2>
 
 <p><img align="top" src="https://github-readme-stats.vercel.app/api?username=Mayankjaiswal1709&show_icons=true" />
