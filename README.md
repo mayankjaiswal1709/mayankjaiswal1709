@@ -1,5 +1,5 @@
 
-# hi i am Mayank an my-Updates
+# Hi, I am Mayank & My-Updates
 # Mayank Jaiswal 😃
 ### I am a  DEVELOPER, I am working on **HTML**,**CSS**
 
