@@ -22,25 +22,9 @@ I am a DEVELOPER, I am working on **HTML**,**CSS**,**JAVASCRIPT**
 
 <h2 align="top">About Me</h2>
 
-### I program in C++, Python and Swift
-
-### Develop cool mobile apps for iOS
-
-### Terminal is my friend 
-
-### Loves to automate stuffs.
-
-### Write technical blogs on Medium
-
-### I use vim
-
-### Brainstorm with me over tech, science and astrophysics.
 
 
-<h2 style="block">Github Stats</h2>
-
-<p><img align="top" src="https://github-readme-stats.vercel.app/api?username=deepak-pro&show_icons=true" />
-<img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepak-pro" /></p>
+<p><img align="top" src="https://github-readme-stats.vercel.app/api?username=deepak-pro&sho
 
 
 ## Projects
