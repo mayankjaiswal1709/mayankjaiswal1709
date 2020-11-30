@@ -4,9 +4,7 @@
 ### I am a  DEVELOPER, I am working on **HTML**,**CSS**
 
 I am a DEVELOPER, I am working on **HTML**,**CSS**,**JAVASCRIPT**
-<p>
-img scr=![code](https://user-images.githubusercontent.com/58311460/100573731-7ae76880-32fe-11eb-9e35-fb8b2b859e4e.gif)"
-</p>
+![code](https://user-images.githubusercontent.com/58311460/100574740-aff4ba80-3300-11eb-80a2-ab06c18ed695.gif)
 
 <h2 style="block">Github Stats</h2>
 
