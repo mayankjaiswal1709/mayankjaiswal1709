@@ -6,8 +6,7 @@
 I am a DEVELOPER, I am working on **HTML**,**CSS**,**JAVASCRIPT**
 <p>
 
-<img align="right" src="https://github.com/mayankjaiswal1709/mayankjaiswal1709/blob/master/assets/
-![code](https://user-images.githubusercontent.com/58311460/100573731-7ae76880-32fe-11eb-9e35-fb8b2b859e4e.gif)" height="300" width="400">
+<img align="right" src=![code](https://user-images.githubusercontent.com/58311460/100573731-7ae76880-32fe-11eb-9e35-fb8b2b859e4e.gif)" height="300" width="400">
 </p>
 
 
