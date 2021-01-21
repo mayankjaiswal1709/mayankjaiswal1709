@@ -2,7 +2,8 @@
 # Hi, I am Mayank & My-Updates
 # Mayank Jaiswal 😃
 ### I am a  DEVELOPER, I am working on **HTML**,**CSS**
-🌱 I'm Currently Learning **Web Desinging**<\n>
+🌱 I'm Currently Learning **Web Desinging**                                        
+
 ⚡ Fun fact: **Don't fix problems fix your thinking problems will be fixed by themselves**
 I am a DEVELOPER, I am working on **HTML**,**CSS**,**JAVASCRIPT**
 
