@@ -7,6 +7,20 @@ I am Mayank Jaiswal, currently pursuing my Bachelors majoring in computer scienc
 [![Gmail Badge](https://img.shields.io/badge/-mayankjaiswal20180@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mayankjaiswal20180@gmail.com)](mailto:mayankjaiswal20180@gmail.com)
 [![Website Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=Wordpress&logoColor=white&link=https://bit.ly/3Jt6Jxf/portfolio)](https://https://bit.ly/3Jt6Jxf/portfolio)
 
+
+[![Mayank's github activity graph](https://activity-graph.herokuapp.com/graph?username=mayankjaiswal1709&theme=xcode)](https://git.io/mayankjaiswal1709) 
+
+
+## ⚡ Technologies
+
+### Language :
+![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+
+
+
 # Hey, I'm Mayank Jaiswal 😃
 ### I am a  DEVELOPER, I am recently working on **ReactJS**,**Nodejs**
 🔭 I’m currently working on **Competitive Programming**<br/>
