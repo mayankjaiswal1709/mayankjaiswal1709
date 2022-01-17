@@ -7,7 +7,7 @@ I am Mayank Jaiswal, currently pursuing my Bachelors majoring in computer scienc
 [![Linkedin Badge](https://img.shields.io/badge/-mayank-jaiswal1912-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mayank-jaiswal1912/)](https://www.linkedin.com/in/mayank-jaiswal1912/)
 [![Instagram Badge](https://img.shields.io/badge/-m.a.y.a.n.k_j-purple?style=flat-square&logo=instagram&logoColor=white&link=https://https://www.instagram.com/m.a.y.a.n.k_j/)](https://https://www.instagram.com/m.a.y.a.n.k_j/)
 [![Gmail Badge](https://img.shields.io/badge/-mayankjaiswal20180@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mayankjaiswal20180@gmail.com)](mailto:mayankjaiswal20180@gmail.com)
-[![Website Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=Wordpress&logoColor=white&link=https://mayankjaiswal.netlify.app/portfolio)](https://mayankjaiswal.netlify.app/portfolio)
+[![Website Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=Wordpress&logoColor=white&link=https://mayankjaiswal.netlify.app/)](https://mayankjaiswal.netlify.app/)
 
 
 [![Mayank's github activity graph](https://activity-graph.herokuapp.com/graph?username=mayankjaiswal1709&theme=xcode)](https://git.io/mayankjaiswal1709) 
