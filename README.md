@@ -1,4 +1,4 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm [Mayank!](https://bio.link/) 
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm [Mayank!](https://bio.link/mayankjaiswal) 
 
 
 I am Mayank Jaiswal, currently pursuing my Bachelors majoring in computer science from [International Institute of Professional Studies , DAVV Indore](http://iips.edu.in/). I am a tech enthusiast & an full stack MERN Developer. I am always open to work on open source and React JS Development. Find out more about me & feel free to connect with me here
