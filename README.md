@@ -1,4 +1,4 @@
-## Hi, i am Mayank!<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="5px"> Great to see you here!
+## Hi, i am Mayank!<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif"height="2px" width="2px"> Great to see you here!
 
 I am Mayank Jaiswal, currently pursuing my Bachelors majoring in computer science from [International Institute of Professional Studies , DAVV Indore](http://iips.edu.in/). I am a tech enthusiast & an full stack MERN Developer. I am always open to work on open source and React JS Development. Find out more about me & feel free to connect with me here
 <br/>
