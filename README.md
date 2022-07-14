@@ -53,7 +53,7 @@ I am Mayank Jaiswal, currently pursuing my Bachelors majoring in computer scienc
 <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayankjaiswal1709" /></p>
  -->
  
- ##snake eating my contribution graph
+ ## snake eating my contribution graph
  ![snake gif](https://github.com/mayankjaiswal1709/mayankjaiswal1709/blob/output/github-contribution-grid-snake.gif)
 
 
