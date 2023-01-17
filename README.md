@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Indore India</h3>
 
 
-<img  align="right" width="400" src="https://user-images.githubusercontent.com/58311460/212845628-eaf7644e-e31b-4dfa-b76c-ed7fc3e7f00a.png"/>
+<img  align="right" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
 
 I am Mayank Jaiswal, currently pursuing Masters in Computer Application from [International Institute of Professional Studies , DAVV Indore](http://iips.edu.in/). I am a tech enthusiast & an full stack MERN Developer. I am always open to work on open source and React JS Development. Find out more about me & feel free to connect with me here
 <br/>
