@@ -46,7 +46,11 @@ I am a tech enthusiast & a full-stack Developer. I am always open to work on ope
 
  <img align="right" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mayankjaiswal1709&theme=tokyonight" />
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayankjaiswal1709&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="mayankjaiswal1709" /></p>
-
+## 📈 Stats
+<p align="center">
+	
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mayank1709&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mayank1709&theme=tokyonight" />
+</p>
 
 
