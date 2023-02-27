@@ -42,9 +42,8 @@ I am a tech enthusiast & a full-stack Developer. I am always open to work on ope
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/mayankjaiswal"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/mayankjaiswal" /></a></p><br><br>
 
+[![Mayank's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mayank1709&bg_color=1c120c&color=ffffff&line=ffffff&point=d23939&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
- <img align="right" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mayankjaiswal1709&theme=tokyonight" />
 
 ## 📈 Stats
 <p align="center">
