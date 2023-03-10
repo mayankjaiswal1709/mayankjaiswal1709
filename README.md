@@ -48,6 +48,9 @@ I am a tech enthusiast & a full-stack Developer. I am always open to work on ope
 <p align="center">
 	
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mayankjaiswal1709&show_icons=true&theme=tokyonight" />
+	
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mayankjaiswal1709&show_icons=true&locale=en" alt="mayankjaiswal1709" /></p><br/>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayankjaiswal1709&" alt="mayankjaiswal1709" /></p>
 </p>
 
