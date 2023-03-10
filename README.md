@@ -47,8 +47,7 @@ I am a tech enthusiast & a full-stack Developer. I am always open to work on ope
 ## 📈 Stats
 <p align="center">
 	
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayankjaiwal1709&show_icons=true&locale=en&layout=compact" alt="mayankjaiswal1709" /></p><br/>
-	
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayankjaiswal1709&show_icons=true&locale=en&layout=compact" alt="mayankjaiswal1709" /></p><br/>	
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mayankjaiswal1709&show_icons=true&locale=en" alt="mayankjaiswal1709" /></p><br/>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayankjaiswal1709&" alt="mayankjaiswal1709" /></p>
