@@ -5,7 +5,20 @@
 <img  align="right" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
 
 I am Mayank Jaiswal, currently pursuing Masters in Computer Application from [International Institute of Professional Studies , DAVV Indore](http://iips.edu.in/). 
-I am a tech enthusiast & a full-stack Developer. I am always open to work on open source and React JS Development. Find out more about me & feel free to connect with me here
+<br/>
+I am a tech enthusiast & a full-stack Developer. I am always open to working on open-source and React JS Development. 
+<br/>
+I am passionate about Coding and Software Development | Connecting with Professionals Like You on LinkedIn
+
+Welcome! I am thrilled to share my background and aspirations in the field of software development.
+
+🎓 Education: As a student, I discovered my passion for coding and software development. It all began when I created a web application aimed at helping individuals organize their daily tasks more efficiently. This experience sparked my interest in programming and ignited my continuous journey of learning and refining my skills.
+
+💻 Skills: With a solid foundation in computer science, my expertise extends across both front-end and back-end development. I have cultivated a strong skill set in various programming languages and technologies, including HTML, CSS, JavaScript, React, Node.js, Express.js, Java, MongoDB, Git, and GitHub. While I excel in front-end software development, I have also acquired valuable experience in back-end development, specifically leveraging the power of Node.js.
+
+📚 Continuous Growth: I am perpetually seeking new challenges and opportunities to enhance my skills and stay up-to-date with emerging technologies. The ever-evolving nature of the software development field excites me, and I am committed to continuous learning and growth.
+
+🚀 Career Aspirations: With unwavering dedication, drive, and expertise, I am confident in my ability to contribute to any software development project. I am eagerly looking to join a dynamic team where I can leverage my skills and knowledge to make a positive impact. My ultimate goal is to evolve as a software developer and actively contribute to building innovative solutions that solve real-world problems.
 <br/>
 ⚡ Fun fact: **Don't fix problems fix your thinking problems will be fixed by themselves**
 
