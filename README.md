@@ -33,9 +33,7 @@ Welcome! I am thrilled to share my background and aspirations in the field of so
 
 - 👨‍💻 All of my projects are available at https://mayankjaiswal1709.github.io/Portfolio/
 
-- 📫 How to reach me [![Gmail Badge](https://img.shields.io/badge/-mayankjaiswal20180@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mayankjaiswal20180@gmail.com)](mailto:mayankjaiswal20180@gmail.com)
-
-
+- 📫 How to reach me [![Gmail Badge](https://img.shields.io/badge/mayankjaiswal20180@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:mayankjaiswal20180@gmail.com)](mailto:mayankjaiswal20180@gmail.com)
 
 ## ⚡ Technologies
 
@@ -54,7 +52,7 @@ Welcome! I am thrilled to share my background and aspirations in the field of so
 <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"></a>
 
 
-[![Mayank's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mayankjaiswal1709&bg_color=000000&color=fafafa&line=e2dfdf&point=16e212&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph))
+[![Mayank's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mayankjaiswal1709&bg_color=000000&color=fafafa&line=e2dfdf&point=16e212&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 📈 Stats
 <p align="center">
