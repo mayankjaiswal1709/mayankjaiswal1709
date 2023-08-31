@@ -54,8 +54,7 @@ Welcome! I am thrilled to share my background and aspirations in the field of so
 <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"></a>
 
 
-
-[![Mayank's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mayankjaiswal1709&bg_color=5F3E2B&color=ffffff&line=ffffff&point=d23939&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Mayank's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mayankjaiswal1709&bg_color=000000&color=fafafa&line=e2dfdf&point=16e212&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph))
 
 ## 📈 Stats
 <p align="center">
