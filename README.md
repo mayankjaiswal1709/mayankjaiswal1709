@@ -27,11 +27,11 @@ Welcome! I am thrilled to share my background and aspirations in the field of so
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mayankjaiswal1709&theme=tokyonight" alt="mayankjaiswal1709" /></a> </p>
 
-- 🔭 I’m currently working on **Payment Gateway Method**
+- 🔭 I’m currently working on **E-commerce Applications**
 
-- 🌱 I’m currently learning **React & NodeJS**
+- 🌱 I’m currently learning **How to make My work more Effective**
 
-- 👨‍💻 All of my projects are available at https://mayankjaiswal1709.github.io/Portfolio/
+- 👨‍💻 Some of my projects are available at https://mayankjaiswal1709.github.io/Portfolio/
 
 - 📫 How to reach me [![Gmail Badge](https://img.shields.io/badge/mayankjaiswal20180@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:mayankjaiswal20180@gmail.com)](mailto:mayankjaiswal20180@gmail.com)
 
