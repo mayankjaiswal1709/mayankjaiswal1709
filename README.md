@@ -54,13 +54,6 @@ Welcome! I am thrilled to share my background and aspirations in the field of so
 
 [![Mayank's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mayankjaiswal1709&bg_color=000000&color=fafafa&line=e2dfdf&point=16e212&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## 📈 Stats
-<p align="center">
-	
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayankjaiswal1709&show_icons=true&locale=en&layout=compact" alt="mayankjaiswal1709" /></p><br/>	
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mayankjaiswal1709&show_icons=true&locale=en" alt="mayankjaiswal1709" /></p><br/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayankjaiswal1709&" alt="mayankjaiswal1709" /></p>
-</p>
 
 
