@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Mayank%20Jaiswal&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20%26%20Mobile%20Engineer&descAlignY=58&descSize=18&descColor=a78bfa" width="100%"/>
-
 </div>
 
 <div align="center">
@@ -154,16 +152,6 @@ Ioninks                             Backend Developer Intern    Aug 2023 – Jan
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=mayankjaiswal1709&theme=tokyonight&hide_border=true&background=0d1117)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=mayankjaiswal1709&theme=tokyonight&no-frame=true&row=1&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
