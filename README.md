@@ -123,7 +123,7 @@ Scalable e-commerce backend with product management, order handling, and payment
 
 ```
 Kaushalam Digital Pvt. Ltd.         Full Stack Developer        Feb 2025 – Present
-├── Contributing to 3+ simultaneous production projects (B2B & B2C e-commerce)
+├── Contributing to 10+ simultaneous production projects (B2B & B2C e-commerce)
 ├── Built centralized admin panel managing 12+ websites
 ├── Developed cart & checkout pages with guest checkout functionality
 └── Built reusable UI components with Tailwind CSS & Zustand
