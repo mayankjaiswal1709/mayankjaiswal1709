@@ -143,10 +143,6 @@ Ioninks                             Backend Developer Intern    Aug 2023 – Jan
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mayankjaiswal1709&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayankjaiswal1709&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-
 </div>
 
 <div align="center">
